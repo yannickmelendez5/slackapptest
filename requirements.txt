@@ -6,7 +6,7 @@ flask==1.0.2
 idna==2.7
 itsdangerous==0.24
 jinja2==2.10
-markupsafe==1.1.1
+markupsafe==1.0
 python-dotenv==0.9.1
 requests==2.19.1
 urllib3==1.23; python_version != '3.0.*'
